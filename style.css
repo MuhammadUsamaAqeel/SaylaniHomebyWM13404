@@ -1,0 +1,46 @@
+.block{
+    text-align: center;
+    height: 180px;
+
+}
+.inline{
+    background-color:white;
+    margin:10px 10px 10px 10px;
+    box-shadow: 3px 3px 20px grey;
+    color:black;
+    width: 310px;
+    height: 500opx;
+    display: inline-block;
+}
+h3{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+
+
+.box{
+    background-color:lightblue;
+    color: blue;
+    margin:5px 1px 5px 1px;
+    font-size: 20px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  #myBtn:hover {
+    background-color: #555;
+  }
+.m{
+    font-weight: bold;
+    font-size: 15px;
+}
